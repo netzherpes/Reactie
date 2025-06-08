@@ -1,9 +1,9 @@
 # Reactie
 
-a KIM-1 program by Sito Dekker
-Load the Papertape file and run it at adress $0200
-The Display on the KIM will blank, and after a random time a timer runs up. Push a button (0-6) on tzhe Kepad asap.
-You ill gt a comment and the time you needed. Start over by pushing GO 
+a KIM-1 program by Sito Dekker.<br>
+Load the Papertape file and run it at adress $0200.<br>
+The Display on the KIM will blank, and after a random time a timer runs up. Push a button (0-6) on tzhe Kepad asap.<br>
+You will get a comment and the time you needed. Start over by pushing GO 
 
 
     REAKTIESNELHEIDSMETER VOOR KIM
