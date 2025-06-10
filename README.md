@@ -1,5 +1,7 @@
 # Reactie
 
+![Rennwagen](https://github.com/netzherpes/Reactie/blob/main/reactie.png?raw=true)
+
 a KIM-1 reaction game by Sito Dekker.<br>
 Load the Papertape file and run it at adress $0200.<br>
 The Display on the KIM will blank, and after a random time a timer runs up. Push a button (0-6) on the Keypad asap.<br>
